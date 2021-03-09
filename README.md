@@ -38,8 +38,8 @@ We have successfully implemented DocVision app which will help to generate PDF f
 # FUTURE SCOPE
 We will try to improve the app by more use of  Machine Learning. We can add functionalities like recognizing languages, language conversion, recognizing tables and converting into csv, editing PDFs, we will try to improve accuracy of text recognition models, auto detecting documents and aligning perspective. We will try to make the server efficient to handle multiple requests at a time, we will improve privacy by adding encryption of every image going to the servers.
 
-# Meet the Makers
-Created with 💖 by Team \
+# MEET THE MAKERS
+Made with 💖 by Team \
 Omkar Amilkanthwar  &nbsp; -  [lnx2000](https://github.com/lnx2000)\
 Aniruddha Deshmukh   - [Aniruddha004](https://github.com/Aniruddha004) \
 Atharva Satpute     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [atharva-satpute](https://github.com/atharva-satpute) \
