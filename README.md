@@ -19,7 +19,7 @@ A thorough survey has revealed that various methods and combinations of these me
 
 ## SCREENSHOTS
 <p align="center">
-<img src="https://github.com/lnx2000/DocVision/blob/main/Images/ScreenShot1.png" height="400"> &nbsp; &nbsp; &nbsp;<img src="https://github.com/lnx2000/DocVision/blob/main/Images/ScreenShot2.png" height="400"> &nbsp; &nbsp; &nbsp;   <img src="https://github.com/lnx2000/DocVision/blob/main/Images/ScreenShot3.png" height="400">;
+<img src="https://github.com/lnx2000/DocVision/blob/main/Images/ScreenShot1.png" height="300"> &nbsp; &nbsp; &nbsp;<img src="https://github.com/lnx2000/DocVision/blob/main/Images/ScreenShot2.png" height="300"> &nbsp; &nbsp; &nbsp;   <img src="https://github.com/lnx2000/DocVision/blob/main/Images/ScreenShot3.png" height="300">;
 </p>
 
 ## RESULTS
