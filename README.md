@@ -1,4 +1,4 @@
-# DOCVISION
+# DocVision
 ## TOPIC DESCRIPTION
 Since the Government of India has banned some of the Chinese apps like Camscanner there is a gap in industry. From this project we are trying to fill this gap. The motivation behind this app is to produce an application with the functionality of scanning and modifying PDFs. Problem Statement - To design an android app that provides the user to do some basic image processing, to let the user generate PDF from images.
 
