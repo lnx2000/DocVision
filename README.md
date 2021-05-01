@@ -17,7 +17,7 @@ Since the Government of India has banned some of the Chinese apps like Camscanne
 
 # USE CASE DIAGRAM
 <p align="center">
-<img src="https://github.com/lnx2000/DocVision/blob/main/Images/USE%20CASE%20DIAGRAM.png" width="600" height="300">
+<img src="https://github.com/lnx2000/DocVision/blob/main/Images/USECASEDIAGRAM.png" width="600" height="400">
 </p>
 
 # ALGORITHMS/API
