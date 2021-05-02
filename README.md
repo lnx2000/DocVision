@@ -7,14 +7,14 @@ We have successfully implemented DocVision app which will help to generate PDF f
 ## SYSTEM DESIGN
 A thorough survey has revealed that various methods and combinations of these methods can be applied in development of a new image recognition system. Among the many possible approaches, we have decided to use a combination of knowledge-based methods for image detection part. The main reason in this selection is their smooth applicability and reliability issues. Scalability of the system has also given significant priority while design.
 
-## USE CASE DIAGRAM
-<p align="center">
-<img src="https://github.com/lnx2000/DocVision/blob/main/Images/USECASEDIAGRAM.png" width="600" height="400">
-</p>
-
 ## HIGH LEVEL DESIGN
 <p align="center">
 <img src="https://github.com/lnx2000/DocVision/blob/main/Images/HIGHLEVEL DESIGN.png" width="600" height="300">
+</p>
+
+## USE CASE DIAGRAM
+<p align="center">
+<img src="https://github.com/lnx2000/DocVision/blob/main/Images/USECASEDIAGRAM.png" width="600" height="400">
 </p>
 
 ## SCREENSHOTS
