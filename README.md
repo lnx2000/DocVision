@@ -24,7 +24,7 @@ A thorough survey has revealed that various methods and combinations of these me
 
 ## RESULTS
 <p align="center">
-<img src="https://github.com/lnx2000/DocVision/blob/main/Images/Result.png" width="600" height="300">
+<img src="https://github.com/lnx2000/DocVision/blob/main/Images/RE.png" width="600" height="300">
 </p>
 
 ## FUTURE SCOPE
